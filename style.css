@@ -1,0 +1,41 @@
+*{
+  margin:0px;
+ padding:0px;
+}
+body{
+    background-image: url(bgimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line{
+    background-color:goldenrod;
+  height:6px;
+  width:650px;
+  margin: none;
+}
+#tanu2{
+    height: 500px;
+    width: 800px;
+    border: 6px solid red;
+}
+.holder{
+    width: 300%;
+}
+#img{
+    width: 550px;
+    height: 600px;
+    border: 4px solid red;
+    margin: 10px;
+    padding: 4px;
+    border-radius: 20px;
+}
+#TANVITA{
+    z-index: 9999;
+}
+#VIDEO{
+    z-index: 8888;
+}
+#FAMILY{
+    z-index: 7777;
+}
